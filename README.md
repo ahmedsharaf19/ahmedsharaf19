@@ -1,5 +1,4 @@
-[![MasterHead](https://static.vecteezy.com/system/resources/previews/001/410/912/original/artificial-intelligence-concept-futuristic-banner-vector.jpg
-)](https://rishavchanda.io)
+[![MasterHead](https://shorturl.at/cqxRS)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Ahmed Sharaf</h1>
 <h3 align="center">Computer engineer with interest in artificial intelligence and machine learning</h3>
@@ -7,14 +6,14 @@
 
 - 🌱 I’m currently learning **artificial intelligence**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ahmedsharaf19?tab=repositories](https://github.com/ahmedsharaf19?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://shorturl.at/AHNX3](https://shorturl.at/AHNX3)
 
 - 💬 Ask me about **Python, C++, C, Java, JavaFX, Data Structures, Algorithms, Data science, Machine Learning, Artificial Intelligence**
 
 - 📫 How to reach me **engsharaf192002@gmail.com**
 
 - 📄 Know about my experiences [https://shorturl.at/dqMQ6](https://shorturl.at/dqMQ6)
-- 
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ahmedbnsharaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmedbnsharaf" height="30" width="40" /></a>
