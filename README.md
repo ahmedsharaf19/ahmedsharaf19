@@ -13,8 +13,8 @@
 
 - 📫 How to reach me **engsharaf192002@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ahmedsharaf9/overlay/1635525717726/single-media-viewer/?profileId=ACoAADX7RGgBGbIdTwNJHPWWkc6sHCAlfxIEAUw](https://www.linkedin.com/in/ahmedsharaf9/overlay/1635525717726/single-media-viewer/?profileId=ACoAADX7RGgBGbIdTwNJHPWWkc6sHCAlfxIEAUw)
-
+- 📄 Know about my experiences [https://shorturl.at/dqMQ6](https://shorturl.at/dqMQ6)
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ahmedbnsharaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmedbnsharaf" height="30" width="40" /></a>
