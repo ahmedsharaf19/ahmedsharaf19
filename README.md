@@ -6,7 +6,7 @@
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=FF0000BE&center=true&width=435&lines=Computer+And+Artificial+Intelligence++Engineer;Always+Learning+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FF0000BE&center=true&width=435&lines=Computer+Engineer;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 - 🏢 I'm a Computer Engineer and Member @ IEEE ZSB Branch
 - 👨‍💻 As a CE student, I'm constantly learning and exploring new technologies to improve my skills.
