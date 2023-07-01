@@ -7,8 +7,9 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Computer%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=cc0000&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Computer%20Engineer;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&width=440&height=45&color=cc0000&vCenter=true&size=22"></a>
 </p>
+
 - 🏢 I'm a Computer Engineer and Member @ IEEE ZSB Branch
 - 👨‍💻 As a CE student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with C, C++, Java, JavaFX, Python Or Any Thing Related Computer Engineering
