@@ -20,9 +20,9 @@
 
 <a href="https://linkedin.com/in/ahmedsharaf9" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Sharaf-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/ahmedmosharaf" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Sharaf-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
-<a href="https://www.facebook.com/profile.php?id=100084027552363" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Sharaf-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
-<a href="https://www.instagram.com/ahmedbnsharaf/" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Sharaf-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
-<a href="https://twitter.com/ahmedbnsharaf" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Sharaf-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<a href="https://www.facebook.com/profile.php?id=100084027552363" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Sharaf-0077B5?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://www.instagram.com/ahmedbnsharaf/" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Sharaf-0077B5?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://twitter.com/ahmedbnsharaf" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Sharaf-0077B5?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
