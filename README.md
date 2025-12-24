@@ -1,28 +1,124 @@
 [![MasterHead](https://i.ibb.co/6Pd6JKn/350537102-1989289954777497-569944769936040810-n.jpg)](https://i.ibb.co/6Pd6JKn/350537102-1989289954777497-569944769936040810-n.jpg)
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+
 <h3 align="center">
-  Welcome to Ahmed Sharaf's profile!
+  Welcome to Ahmed Sharaf's GitHub Profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Computer%20Engineer;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&width=440&height=45&color=cc0000&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20%26%20ML%20Engineer;Computer%20Engineering%20Graduate;ITI%209-Month%20Trainee;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&width=650&height=45&color=cc0000&vCenter=true&size=22">
+  </a>
 </p>
 
-- 🏢 I'm a Computer Engineer and Member @ IEEE ZSB Branch
-- 👨‍💻 As a CE student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with C, C++, Java, JavaFX, Python Or Any Thing Related Computer Engineering
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
+---
 
+## 👋 About Me
 
-### Connect with Me :
+I’m **Ahmed Sharaf**, a **Computer & Control Systems Engineering graduate** with a strong passion for  
+**Artificial Intelligence, Machine Learning, and building real-world intelligent systems**.
 
-<a href="https://linkedin.com/in/ahmedsharaf9" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Sharaf-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/ahmedmosharaf" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Sharaf-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
-<a href="https://www.facebook.com/profile.php?id=100084027552363" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Sharaf-0077B5?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<a href="https://www.instagram.com/ahmedbnsharaf/" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Sharaf-0077B5?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://twitter.com/ahmedbnsharaf" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Sharaf-0077B5?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+- 🎓 B.Sc. in Computer & Systems Engineering – Faculty of Engineering  
+- 🤖 AI / Machine Learning Engineer  
+- 🚀 Interested in end-to-end AI pipelines (Data → Model → Deployment)  
+- 📍 Based in Egypt  
+
+---
+
+## 🟢 Current Focus
+
+### 🏫 ITI – 9 Months Professional Training Program *(Ongoing)*
+- Advanced hands-on training in **Software Engineering & Applied AI**
+- Working on real-world, production-oriented projects
+- Strong focus on Python, ML pipelines, and deployment concepts
+
+---
+
+## 💼 Professional Experience
+
+### 🤖 Freelance Machine Learning & AI Engineer  
+**Aug 2024 – Present**
+- Building and deploying ML/DL models for real use cases
+- Experience across the full AI lifecycle:
+  - Data preprocessing
+  - Model training & evaluation
+  - Deployment & monitoring
+
+---
+
+## 🧠 Leadership & Volunteering
+
+### 🏢 IEEE CS – Zagazig Student Branch  
+**AI Vice Head / Former Head – Advanced AI Track**
+- Led AI & Machine Learning technical tracks
+- Organized workshops and mentoring sessions
+- Guided students through practical AI projects
+
+---
+
+## 🚀 Selected Projects
+
+- **CropGuard – Smart Agriculture AI System**
+- **Medical Imaging Pipeline – Brain & Breast Tumor Analysis**
+- **Chest X-Ray Pneumonia Detection**
+- **Email Spam Detection System**
+- **Customer Segmentation Using Unsupervised Learning**
+- **Customer Churn Prediction Model**
+- **Gauss-Jordan Elimination Solver**
+- **Sudoku Game – Python**
+- **Words Heap Game – Java**
+
+---
+
+## 🛠 Technical Skills
+
+**AI & Machine Learning**
+- Machine Learning Algorithms & Ensemble Methods  
+- Deep Learning: CNN, RNN, LSTM, GAN, Transformers  
+- Transfer Learning & Model Optimization  
+
+**Data & Mathematics**
+- Linear Algebra, Probability & Statistics  
+- Data Cleaning, Preprocessing & Visualization  
+
+**Tools & Frameworks**
+- Scikit-learn, TensorFlow, Keras, PyTorch  
+- OpenCV, YOLO  
+- LangChain, FastAPI  
+- Docker, Cloud Basics  
+- Git & GitHub  
+
+---
+
+## 🌱 Interests
+- Artificial Intelligence & Emerging Technologies
+- Space & Science 🌌
+- Continuous Learning
+- Football ⚽
+
+---
+
+## 🔗 Connect with Me
+
+<a href="https://linkedin.com/in/ahmedsharaf9" target="_blank">
+  <img src="https://img.shields.io/badge/-Ahmed%20Sharaf-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+</a>
+<a href="https://t.me/ahmedmosharaf" target="_blank">
+  <img src="https://img.shields.io/badge/-Ahmed%20Sharaf-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/>
+</a>
+<a href="https://www.github.com/ahmedsharaf19" target="_blank">
+  <img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+---
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedsharaf19&show_icons=true&locale=en&layout=compact&theme=radical" />
+
+<a href="https://komarev.com/ghpvc/?username=ahmedsharaf19&style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=ahmedsharaf19&style=for-the-badge">
+</a>
+
 
 ### 🛠 &nbsp;Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
